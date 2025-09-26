@@ -1,0 +1,11 @@
+AppData/
+Documents/
+Cookies/
+Local Settings/
+.vscode/
+.arduinoIDE/
+*.bin
+.gitconfig
+.lesshst
+.nbi/
+
